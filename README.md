@@ -2,9 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josi-coder)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projetos
 
-[![Readme Card](https://github.com/Josi-coder/prompts-for-podcast-generate-by-ia)
 
 <!--
 **Josi-coder/Josi-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
